@@ -47,7 +47,7 @@ This model can significantly improve user experience in e-commerce platforms by 
 
 ## Technologies Used
 - **Python**: The primary programming language for model development.
-- **Machine Learning Libraries**: Libraries such as TensorFlow and Keras for building and training the CNN model.
+- **Machine Learning Libraries**: Numpy, Pandas, Matplotlib, Seaborn, Tensorflow and Keras.
 - **Streamlit**: For deploying the web application and creating an interactive user interface.
 
 ## Dataset
