@@ -51,7 +51,7 @@ This model can significantly improve user experience in e-commerce platforms by 
 - **Streamlit**: For deploying the web application and creating an interactive user interface.
 
 ## Dataset
-The dataset used for training the model can be found on Kaggle: [Fashion Dataset]([https://www.kaggle.com/datasets/your-dataset-link](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small))
+The dataset used for training the model can be found on Kaggle: [Fashion Dataset](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small)
 
 ## Project Flowchart
 ![Project Flowchart](fashion.png)
