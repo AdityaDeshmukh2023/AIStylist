@@ -23,6 +23,9 @@ The application is deployed using Streamlit, providing a user-friendly interface
 ✅ **Successful Model Recommendations for Various Fashion Items**  
 The model successfully identifies and recommends similar fashion items based on the uploaded images.
 
+## Project Flowchart
+![Project Flowchart](fashion.png)
+
 ## Key Insights
 🤖 **CNN Applications**  
 Convolutional Neural Networks are highly effective for image recognition tasks, making them ideal for fashion recommendations due to their ability to learn intricate features.
@@ -53,5 +56,5 @@ This model can significantly improve user experience in e-commerce platforms by 
 ## Dataset
 The dataset used for training the model can be found on Kaggle: [Fashion Dataset](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small)
 
-## Project Flowchart
-![Project Flowchart](fashion.png)
+## Deployment
+Deploying it soon...!
